@@ -44,8 +44,9 @@ Actualmente me estoy profesionalizando en [Academia X](https://www.academia-x.co
 ## 📫 Contacto
 ¡Conéctate conmigo para discutir sobre datos, analítica y más!
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/valentina-padilla-ballesteros-982685271/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina%20Padilla%20Ballesteros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-padilla-ballesteros-982685271/)
 
-Correo electrónico: [Correo Electrónico](mailto:valentinapadillaballesteros@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinapadillaballesteros@gmail.com)
+
 
 ¡Gracias por visitar mi perfil! 
