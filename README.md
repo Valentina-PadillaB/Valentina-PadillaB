@@ -31,7 +31,7 @@ A lo largo de mi carrera, he demostrado habilidades en comunicación efectiva, t
 
 
 ## 🎓 Formación Académica
-Actualmente me estoy profesionalizando en [Academia X](https://www.academiax.com), donde estoy realizando un Bootcamp de Programación, Desarrollo Web e Ingeniería de Software.
+Actualmente me estoy profesionalizando en [Academia X](https://www.academia-x.com/), donde estoy realizando un Bootcamp de Programación, Desarrollo Web e Ingeniería de Software.
 
 
 🌱 Siempre aprendiendo y explorando nuevas técnicas y tecnologías.
